@@ -1,4 +1,4 @@
-package hello.advanced.app.trace.strategy.code;
+package hello.advanced.app.trace.strategy;
 
 import org.junit.jupiter.api.Test;
 
